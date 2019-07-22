@@ -1,0 +1,1 @@
+deb [trusted=yes arch=amd64]  file:///boot/repo/haiku/ hakilo main 

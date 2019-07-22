@@ -1,0 +1,9 @@
+Codename:	hakilo
+Suite:	testing
+Version:	1.x
+Origin:	Hakilo
+Label:	Hakilo 1.x
+Description:	Hakilo Testing Repository
+Architectures:	amd64
+Components: main
+UDebComponents: main

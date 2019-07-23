@@ -1,3 +1,4 @@
 #!/bin/sh
+export LIBS="-lbsd"
 
-./configure --prefix=/boot/home/config/non-packaged/ --without-libgpgme --with-libarchive=yes --with-liblzma=yes --with-libbz2=yes
+./configure --prefix=/boot/home/config/non-packaged/ --with-libarchive=yes --with-liblzma=yes --with-libbz2=yes
